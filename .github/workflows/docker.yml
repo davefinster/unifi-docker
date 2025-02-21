@@ -4,7 +4,7 @@ on:
     branches:
       - 'master'
 env:
-  PKGURL: https://dl.ui.com/unifi/8.1.113/unifi_sysvinit_all.deb
+  PKGURL: https://dl.ui.com/unifi/9.0.114/unifi_sysvinit_all.deb
 jobs:
   build:
     runs-on: ubuntu-latest
